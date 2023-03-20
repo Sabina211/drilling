@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drilling", "Drilling\Drilling.csproj", "{3C420C99-F5F6-4176-9065-8D5CB1EC1570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drilling.Infrastructure", "Drilling.Infrastructure\Drilling.Infrastructure.csproj", "{92F31CF3-A8C7-4F53-AB4A-20AE4E98E044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C420C99-F5F6-4176-9065-8D5CB1EC1570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C420C99-F5F6-4176-9065-8D5CB1EC1570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C420C99-F5F6-4176-9065-8D5CB1EC1570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C420C99-F5F6-4176-9065-8D5CB1EC1570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F31CF3-A8C7-4F53-AB4A-20AE4E98E044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F31CF3-A8C7-4F53-AB4A-20AE4E98E044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F31CF3-A8C7-4F53-AB4A-20AE4E98E044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F31CF3-A8C7-4F53-AB4A-20AE4E98E044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A398492-BA67-4253-841B-EE5D691C3A80}
+	EndGlobalSection
+EndGlobal

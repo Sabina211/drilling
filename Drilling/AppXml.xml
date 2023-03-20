@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Drilling</name>
+    </assembly>
+    <members>
+        <member name="M:Drilling.Controllers.DrillBlocksController.Add(Drilling.Models.DrillBlockForm)">
+            <summary>
+            добавление блока обуривания
+            </summary>
+            <param name="blockName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
